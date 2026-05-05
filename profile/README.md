@@ -1,12 +1,10 @@
-## Hi there 👋
+## About
 
-<!--
+AXYONN Technology builds scalable, reliable and high-performance digital systems.
 
-**Here are some ideas to get you started:**
+We focus on delivering clean architecture, efficient engineering and long-term maintainability.
+Our work combines modern development practices with a strong emphasis on simplicity and clarity.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Contact
+
+[axyonntechnology@outlook.com](mailto:axyonntechnology@outlook.com)
